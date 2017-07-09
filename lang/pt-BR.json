@@ -206,5 +206,5 @@
     "thorNotClose": "\/me @%%NAME%% voc\u00ea n\u00e3o é digno(a) nem de chegar perto do martelo otária. Entre na lista primeiro.",
     "thorcd": "\/me @%%NAME%% voc\u00ea s\u00f3 poder\u00e1 tentar levantar o martelo novamente em %%TIME%% mínutos.",
     "thorWorthy": "\/me :tada: Parabéns @%%NAME%% você acaba de pegar #:one: no iTunes :cd: vc quer, @? :nail_care:",
-    "thorNotWorthy": "\/me @%%NAME%% voc\u00ea n\u00e3o \u00e9 digno do martelo, vá para o final da fila! #barrei :no_entry_sign:"
+    "thorNotWorthy": "\/me @%%NAME%% voc\u00ea n\u00e3o \u00e9 digno do martelo, vá para o final da fila! #barrei"
 }
