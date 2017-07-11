@@ -204,7 +204,7 @@
     "youtube": "\/me [%%NAME%%] Inscreva-se no nosso canal: %%LINK%%",
     "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W\/%%GRABS%%G\/%%MEHS%%M.",
     "thorNotClose": "\/me @%%NAME%% voc\u00ea n\u00e3o é digno(a) nem de #1 em Cyprus amiga! Entre na lista de espera primeiro.",
-    "thorcd": "\/me @%%NAME%% tente debutar #1 novamente em %%TIME%%. minutos.",
+    "thorcd": "\/me @%%NAME%% tente debutar #1 novamente em %%TIME%%. minutos :heart:",
     "thorWorthy": "\/me :tada: Parabéns @%%NAME%% você acaba de pegar #:one: no iTunes WoP :cd: vc quer, @? :nail_care:",
     "thorNotWorthy": "\/me Bon Appétit @%%NAME%% :fork_and_knife:, você não é digna de #1 no iTunes WoP! Volte para o final da fila."
 }
