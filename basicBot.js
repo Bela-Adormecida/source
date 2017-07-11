@@ -3644,7 +3644,7 @@
             },
 
             thorCommand: {
-                command: 'thor',
+                command: 'itunes',
                 rank: 'user',
                 type: 'exact',
                 functionality: function(chat, cmd) {
